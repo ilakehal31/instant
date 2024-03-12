@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708098177225,
+      "tag": "0000_nostalgic_shinobi_shaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708188971973,
+      "tag": "0001_concerned_pestilence",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708531858413,
+      "tag": "0002_dizzy_nitro",
+      "breakpoints": true
+    }
+  ]
+}

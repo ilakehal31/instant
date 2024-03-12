@@ -1,0 +1,143 @@
+title: Instant - L'application de partage de photos
+description: Instant est une application de partage de photos éphémères pour des évènements spéciaux qui vous permet de partager vos photos avec vos amis et votre famille.
+navigation: false
+hero:
+  title: Partager vos souvenirs
+  description: Instant est une application de partage de photos éphémères pour des évènements spéciaux qui vous permet de partager vos photos avec vos amis et votre famille.
+  headline:
+    label: L'application de partage de photos
+    icon: i-heroicons-heart
+  links:
+    - label: S'inscrire
+      to: "/signup"
+      size: xl
+      color: black
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+    - label: Découvrir les photos
+      icon: i-simple-icons-github
+      size: xl
+      color: gray
+      to: https://github.com/nuxt-ui-pro/saas
+      target: _blank
+sections:
+  - title: La force de notre service
+    description: Retrouver l'ensemble de vos photos souvenirs sur notre espace de Cloud, et classer les par évènements.
+    id: features
+    align: left
+    features:
+      - name: Facile à utiliser
+        description: Une application intuitive pour partager vos photos avec vos amis et votre famille.
+        icon: i-heroicons-cog
+      - name: Fiable
+        description: Un outil pour l'ensemble de vos évènements spéciaux.
+        icon: i-heroicons-check
+      - name: Sécurisé
+        description: Un cloud sécurisé pour stocker vos photos et les partager avec vos proches.
+        icon: i-heroicons-lock-closed
+    links:
+      - label: Explore components
+        to: /pro/components
+        color: gray
+        icon: i-heroicons-arrow-right-20-solid
+        trailing: true
+        size: md
+        class: ml-8
+  - title: La rapidité de notre service
+    description: Un service rapide pour partager vos photos avec vos proches.
+    align: right
+    features:
+      - name: Rapide
+        description: Des photos et vidéos qui se chargent rapidement.
+        icon: i-heroicons-rocket-launch
+      - name: Abordable
+        description: Une application à un prix abordable pour l'ensemble de vos évènements.
+        icon: i-heroicons-currency-dollar
+      - name: Évolutif
+        description: Stocker des milliers de photos et vidéos sur notre cloud.
+        icon: i-heroicons-chart-bar
+    links:
+      - label: Learn more
+        to: /pro/guide/content
+        color: gray
+        icon: i-heroicons-arrow-right-20-solid
+        trailing: true
+        size: md
+        class: ml-8
+features:
+  title: Découvrir nos photos
+  description: Retrouver l'ensemble de vos photos souvenirs sur notre espace de Cloud, et classer les par évènements.
+  items:
+    - title: Easy to use
+      description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
+      icon: i-heroicons-cog
+    - title: Reliable
+      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+      icon: i-heroicons-check
+    - title: Secure
+      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
+      icon: i-heroicons-lock-closed
+    - title: Fast
+      description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
+      icon: i-heroicons-rocket-launch
+    - title: Affordable
+      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+      icon: i-heroicons-currency-dollar
+    - title: Scalable
+      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
+      icon: i-heroicons-chart-bar
+testimonials:
+  headline: Testimonials
+  title: What our customers are saying.
+  description: Proident sunt exercitation minim laborum enim laboris labore esse.
+  items:
+    - quote: Nostrud tempor sunt fugiat. Dolor in sint dolore labore non occaecat adipisicing Lorem labore ullamco enim excepteur. In fugiat Lorem sit velit id veniam esse eiusmod non ea voluptate cupidatat reprehenderit ullamco dolore. Mollit laborum occaecat aliquip.
+      author:
+        name: Rose Roberson
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=1
+          loading: lazy
+    - quote: Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation.
+      author:
+        name: Chace Rodgers
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=7
+          loading: lazy
+    - quote: Id duis velit enim officia ad nisi incididunt magna ex dolor minim deserunt dolor. Esse incididunt cillum nostrud esse do quis amet labore amet nulla eiusmod amet nulla Lorem. Incididunt ex voluptate irure officia laboris ea proident est qui.
+      author:
+        name: Cornelius Sheppard
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=3
+          loading: lazy
+    - quote: Velit consectetur in adipisicing culpa eiusmod commodo eu ex dolore. Officia irure nisi dolor dolore velit fugiat. Aliqua sint aliqua aute elit eu sunt.
+      author:
+        name: Destinee Woods
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=5
+          loading: lazy
+    - quote: Proident quis deserunt qui ex exercitation veniam id Lorem est cupidatat ipsum irure aliquip ad.
+      author:
+        name: Kaleb Mccormick
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=8
+          loading: lazy
+    - quote: Magna officia quis ea ea in officia non voluptate ipsum culpa do labore sunt. Aute est dolore commodo sint officia ad laboris dolor magna aliquip exercitation tempor commodo.
+      author:
+        name: Jazmin Mccall
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=9
+          loading: lazy
+cta:
+  title: Get started today
+  description: Nisi mollit id aliquip sunt est laborum sit sit.
+  links:
+    - label: Buy now
+      size: xl
+      color: black
+      to: /pricing
